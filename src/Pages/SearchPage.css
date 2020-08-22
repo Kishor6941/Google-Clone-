@@ -1,0 +1,20 @@
+.searchPage_header {
+  display: flex;
+  position: sticky;
+  top: 0;
+  background-color: white;
+  z-index: 100;
+  padding: 30px;
+  border-bottom: 1px solid lightgray;
+}
+.searchPage_logo {
+  object-fit: contain;
+  height: 50px;
+  margin-right: 50px;
+}
+.searchPage_headerBody > .search > .search_input {
+  margin-top: 0;
+  width: unset;
+  margin: unset;
+  max-width: unset;
+}
