@@ -33,9 +33,12 @@ const Home = () => {
         />
         <div className="home_inputContainer ">
           {/* <Search /> */}
-          <Search hideButtons />
+          <Search />
         </div>
       </div>
+      <footer className="footer_google">
+        <p>Copyright &copy; 2020 Kishor Technical</p>
+      </footer>
     </div>
   );
 };
