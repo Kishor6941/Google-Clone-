@@ -1,3 +1,4 @@
+## Google clone deployed url on firebase https://clone-cc597.web.app/
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
